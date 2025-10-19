@@ -43,7 +43,7 @@ OpenAI APIを利用して以下のことが可能です：
 1. リポジトリをクローンします:
 
 ```bash
-git clone https://github.com/<ユーザ名>/AIpythonhelper.git
+git clone https://github.com/mazika1u/AIpythonhelper.git
 cd AIpythonhelper
 ```
 
